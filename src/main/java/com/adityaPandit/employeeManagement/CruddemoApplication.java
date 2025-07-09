@@ -1,4 +1,4 @@
-package com.luv2code.springboot.cruddemo;
+package com.adityaPandit.employeeManagement;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -8,11 +8,8 @@ public class CruddemoApplication {
 
 	public static void main(String[] args) {
 
-		System.out.println("Hello niggesh");
 		SpringApplication.run(CruddemoApplication.class, args);
-
-		// printing statemnet uwu
-		System.out.println("uwu");
+		;
 	}
 
 }

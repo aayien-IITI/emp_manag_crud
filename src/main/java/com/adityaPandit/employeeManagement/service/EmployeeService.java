@@ -1,8 +1,8 @@
-package com.luv2code.springboot.cruddemo.service;
-
-import com.luv2code.springboot.cruddemo.entity.Employee;
+package com.adityaPandit.employeeManagement.service;
 
 import java.util.List;
+
+import com.adityaPandit.employeeManagement.entity.Employee;
 
 public interface EmployeeService {
 
@@ -10,7 +10,7 @@ public interface EmployeeService {
 
     Employee findById(int theId);
 
-    Employee save(Employee theEmployee);
+    void save(Employee theEmployee);
 
     void deleteById(int theId);
 
