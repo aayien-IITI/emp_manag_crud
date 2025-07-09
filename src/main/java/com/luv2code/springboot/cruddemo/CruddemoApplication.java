@@ -11,7 +11,7 @@ public class CruddemoApplication {
 		System.out.println("Hello niggesh");
 		SpringApplication.run(CruddemoApplication.class, args);
 
-		// printing statemnet
+		// printing statemnet uwu
 		System.out.println("uwu");
 		System.out.println("oni");
 	}
