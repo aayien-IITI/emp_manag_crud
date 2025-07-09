@@ -1,6 +1,6 @@
 # Employee Management System
 
-This is a Spring Boot-based CRUD application for managing employee data. It provides functionality to create, read, update, and delete employee records using Spring MVC, Spring Data JPA, Thymeleaf, and a MySQL database (or any other DB of your choice).
+This is a Spring Boot-based CRUD application for managing employee data. It provides functionality to create, read, update, and delete employee records using Spring MVC, Spring Data JPA, Thymeleaf, and a MySQL database.
 
 ![Home Page](./screenshots/crud.png)
 
@@ -21,7 +21,7 @@ This is a Spring Boot-based CRUD application for managing employee data. It prov
 - Spring MVC
 - Spring Data JPA
 - Thymeleaf
-- MySQL or H2
+- MySQL 
 - Maven
 
 ## ⚙️ Getting Started
