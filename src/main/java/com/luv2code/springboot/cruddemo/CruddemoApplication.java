@@ -13,7 +13,6 @@ public class CruddemoApplication {
 
 		// printing statemnet uwu
 		System.out.println("uwu");
-		System.out.println("oni");
 	}
 
 }
