@@ -44,11 +44,11 @@ Configure the database
 Edit the file src/main/resources/application.properties:
 
 
-spring.datasource.url=jdbc:mysql://localhost:3306/(use ur own)
-spring.datasource.username= (use ur own)
-spring.datasource.password=(use ur own)
-spring.jpa.hibernate.ddl-auto=update
-Run the application
+spring.datasource.url=jdbc:mysql://localhost:3306/(use ur own)<br>
+spring.datasource.username= (use ur own)<br>
+spring.datasource.password=(use ur own)<br>
+spring.jpa.hibernate.ddl-auto=update<br>
+Run the application<br>
 
 
 ./mvnw spring-boot:run
