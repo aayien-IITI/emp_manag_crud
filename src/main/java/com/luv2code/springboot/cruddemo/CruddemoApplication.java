@@ -10,6 +10,8 @@ public class CruddemoApplication {
 
 		System.out.println("Hello niggesh");
 		SpringApplication.run(CruddemoApplication.class, args);
+
+		// printing statemnet
 		System.out.println("uwu");
 		System.out.println("oni");
 	}
